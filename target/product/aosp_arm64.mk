@@ -65,4 +65,4 @@ endif
 PRODUCT_NAME := aosp_arm64
 PRODUCT_DEVICE := generic_arm64
 PRODUCT_BRAND := Android
-PRODUCT_MODEL := AOSP on ARM64
+PRODUCT_MODEL := Lenovo TB-8505X
